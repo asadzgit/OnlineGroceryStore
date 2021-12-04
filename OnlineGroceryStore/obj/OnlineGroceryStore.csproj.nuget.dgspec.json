@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muhammad Asad\\source\\repos\\EAD-Sessionals\\Assignment\\BCSF18M503_Assignment2\\OnlineGroceryStore\\OnlineGroceryStore\\OnlineGroceryStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muhammad Asad\\source\\repos\\EAD-Sessionals\\Assignment\\BCSF18M503_Assignment2\\OnlineGroceryStore\\OnlineGroceryStore\\OnlineGroceryStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammad Asad\\source\\repos\\EAD-Sessionals\\Assignment\\BCSF18M503_Assignment2\\OnlineGroceryStore\\OnlineGroceryStore\\OnlineGroceryStore.csproj",
+        "projectName": "OnlineGroceryStore",
+        "projectPath": "C:\\Users\\Muhammad Asad\\source\\repos\\EAD-Sessionals\\Assignment\\BCSF18M503_Assignment2\\OnlineGroceryStore\\OnlineGroceryStore\\OnlineGroceryStore.csproj",
+        "packagesPath": "C:\\Users\\Muhammad Asad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad Asad\\source\\repos\\EAD-Sessionals\\Assignment\\BCSF18M503_Assignment2\\OnlineGroceryStore\\OnlineGroceryStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Muhammad Asad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packages.nuget.org/v1/FeedService.svc": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
